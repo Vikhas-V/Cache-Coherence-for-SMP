@@ -1,11 +1,3 @@
-/*******************************************************
-                          bus_ops.cc
-              Bus Operations for Cache Coherence
-                  Ahmad Samih & Yan Solihin
-                           2009
-                {aasamih,solihin}@ece.ncsu.edu
-********************************************************/
-
 #include "bus_ops.h"
 #include <vector>
 
